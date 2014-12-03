@@ -1,5 +1,5 @@
 {
-    "name": "latheesan-k/xero-laravel",
+    "name": "latheesan-k/laravel-xero",
     "description": "Xero Service Provider for Laravel 4",
     "keywords": ["laravel","laravel 4","xero","xero api", "laravel xero"],
     "license": "MIT",
