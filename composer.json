@@ -1,0 +1,30 @@
+{
+    "name": "latheesan-k/xero-laravel",
+    "description": "Xero Service Provider for Laravel 4",
+    "keywords": ["laravel","laravel 4","xero","xero api", "laravel xero"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chris Duell",
+            "email": "chris@venturecraft.com.au"
+        },
+        {
+            "name": "Paul Johnston",
+            "email": "paul@softlabs.co.uk"
+        },
+        {
+            "name": "Latheesan Kanesamoorthy",
+            "email": "latheesan_k@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Latheesan\\XeroLaravel": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
