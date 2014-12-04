@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Latheesan\\XeroLaravel": "src/"
+            "Latheesan\\LaravelXero": "src/"
         }
     },
     "minimum-stability": "dev"
